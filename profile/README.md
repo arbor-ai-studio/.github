@@ -29,7 +29,7 @@ To make AI accessible and impactful for small businesses by building intuitive a
 
 **Contact:**
 
-* **Email:** msaifofficial@gmail.com
+* **Email:** arbor.ai.studio@gmail.com
 * **Website:** https://arboraistudio.com/
 
 **Our Values:**
