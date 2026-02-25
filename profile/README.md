@@ -1,12 +1,12 @@
 # Arbor AI Studio
 
-> Crafting intelligent AI solutions so small businesses can grow with confidence.
+> Crafting intelligent AI solutions so businesses can grow with confidence.
 
-Arbor AI Studio is a collective of engineers, product designers, and data scientists who build practical AI systems for small and medium businesses. Whether it’s AI agents, custom machine learning models, or automation consulting, we translate cutting-edge research into usable tools that improve day-to-day operations.
+Arbor AI Studio is a collective of engineers, product designers, and data scientists who build practical AI systems for businesses. Whether it’s AI agents, custom machine learning models, or automation consulting, we translate cutting edge research into usable tools that improve day to day operations.
 
 ## Mission
 
-Make AI accessible and impactful for small businesses by delivering intuitive, reliable software that drives growth, insight, and efficiency.
+Make AI accessible and impactful for businesses by delivering intuitive, reliable software that drives growth, insight, and efficiency.
 
 ## What We Do
 
@@ -45,4 +45,5 @@ We leverage tools such as OpenAI, Anthropic, LangChain, TensorFlow, PyTorch, Fas
 - **Website:** https://arboraistudio.com
 - **Location:** Winnipeg, Canada
 
-Let’s build the future of AI for small businesses together.
+Let’s build the future of AI for your businesses together.
+
