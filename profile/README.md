@@ -39,12 +39,17 @@ We leverage tools such as OpenAI, Anthropic, LangChain, TensorFlow, PyTorch, Fas
 - **Contribute** – Open issues or PRs if you share our passion for AI craftsmanship.
 - **Collaborate** – Need an AI partner? Let’s discuss how we can help.
 
+## APAC Headquarters
+
+Unit 2N, Dhanmondi Garden City,
+354 Tali Office Road, Dhaka 1209
+
 ## Contact
 
 - **Email:** contact@arboraistudio.com
 - **Website:** https://arboraistudio.com
-- **Location:** Winnipeg, Canada
 
 Let’s build the future of AI for your businesses together.
+
 
 
